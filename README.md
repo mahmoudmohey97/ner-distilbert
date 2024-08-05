@@ -5,4 +5,4 @@
 ####  In order to run this api make sure the model is located in the model directory then run the api.py file
 ####  The endpoint is "/get_ner/{query}"
 
-### Link to model: 
+### Link to model: https://drive.google.com/file/d/1xjLc9gTJYjxZEJY2pOJGktHFaDvx7jyx/view?usp=sharing
