@@ -5,7 +5,7 @@
 ####  In order to run this api make sure the model is located in the model directory then run the api.py file
 ####  The endpoint is "/get_ner/{query}"
 
-### Achieving the following on test set
+## Achieving the following on test set
 #### 'loss': 0.11326012760400772,
 #### 'precision': 0.8776753088567949,
 #### 'recall': 0.8930594900849859,
